@@ -9,15 +9,15 @@ SpringMVC will be one of the main technologies being used. Another would be the 
 Unix Shell and command language. Main API being used would be the Discord API or Slack API. The project will also be implementing MongoDB or SQL. Maven will also be used in the making of the project. The list of technologies can still be changed based on future challenges or problems.
 
 # Use Cases
-Use Case 1: Send message
-Use Case 2: Send image/file
-Use Case 3: Create groups
-Use Case 4: View users in a group
+Use Case 1: Send message \n
+Use Case 2: Send image/file \n
+Use Case 3: Create groups \n
+Use Case 4: View users in a group \n
 
 # Resources
-https://discordapp.com/developers/docs/reference
-https://github.com/discordapp/discord-api-docs
-https://api.slack.com/
+https://discordapp.com/developers/docs/reference \n
+https://github.com/discordapp/discord-api-docs \n
+https://api.slack.com \n
 
 # Poject Schedule
 Checkpoint 1: Send Message
