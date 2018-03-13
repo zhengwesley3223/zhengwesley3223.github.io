@@ -20,10 +20,10 @@ https://github.com/discordapp/discord-api-docs \n
 https://api.slack.com \n
 
 # Poject Schedule
-Checkpoint 1: Send Message
-Checkpoint 2: Send image/file
-Checkpoint 3: Create groups
-Checkpoint 4: View users in a group
+Checkpoint 1: Send Message \n
+Checkpoint 2: Send image/file \n 
+Checkpoint 3: Create groups \n
+Checkpoint 4: View users in a group \n
 
 # Project Justification
 There is no real novelty to my program. However, chat room is something that is widely used on the Internet. I believe that by 
