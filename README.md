@@ -1,5 +1,5 @@
 # zhengwesley3223.github.io
-Project Description
+# Project Description
 The project that I plan on doing is a chat room project. This will allow people to chat in real time with each other.
 The chat room should allow users to join different group/chat. This way people are not limited to just one group and
 can chat with people in different groups.
