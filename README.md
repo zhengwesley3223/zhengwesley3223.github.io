@@ -9,21 +9,21 @@ SpringMVC will be one of the main technologies being used. Another would be the 
 Unix Shell and command language. Main API being used would be the Discord API or Slack API. The project will also be implementing MongoDB or SQL. Maven will also be used in the making of the project. The list of technologies can still be changed based on future challenges or problems.
 
 # Use Cases
-Use Case 1: Send message \n
-Use Case 2: Send image/file \n
-Use Case 3: Create groups \n
-Use Case 4: View users in a group \n
+Use Case 1: Send message <br />
+Use Case 2: Send image/file <br />
+Use Case 3: Create groups <br />
+Use Case 4: View users in a group <br />
 
 # Resources
-https://discordapp.com/developers/docs/reference \n
-https://github.com/discordapp/discord-api-docs \n
-https://api.slack.com \n
+https://discordapp.com/developers/docs/reference <br />
+https://github.com/discordapp/discord-api-docs <br />
+https://api.slack.com <br />
 
 # Poject Schedule
-Checkpoint 1: Send Message \n
-Checkpoint 2: Send image/file \n 
-Checkpoint 3: Create groups \n
-Checkpoint 4: View users in a group \n
+Checkpoint 1: Send Message <br />
+Checkpoint 2: Send image/file <br />
+Checkpoint 3: Create groups <br />
+Checkpoint 4: View users in a group <br />
 
 # Project Justification
 There is no real novelty to my program. However, chat room is something that is widely used on the Internet. I believe that by 
