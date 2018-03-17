@@ -7,7 +7,7 @@ SpringMVC will be one of the main technologies being used. Another would be the 
 Unix Shell and command language. Main API being used would be the Youtube API. The project will also be implementing MongoDB or SQL. Maven will also be used in the making of the project. I will also be implementing the IRC for the chatroom function. If that does not work out maybe, using the Discord API or Slack API to do it. The list of technologies can still be changed based on future challenges or problems.
 
 # Use Cases
-Use Case 1: Login with Gmail/Youtube account
+Use Case 1: Login with Gmail/Youtube account <br />
 Use Case 2: Queue Videos <br />
 Use Case 3: Play Videos <br />
 Use Case 4: Skip Videos <br />
